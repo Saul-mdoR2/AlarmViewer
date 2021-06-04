@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alarms</string>
+    <string name="txtBtnGenerateAlarms">Generate Alarms</string>
+    <string name="txtBtnRefreshRecycler">Refresh RecyclerView</string>
+</resources>
